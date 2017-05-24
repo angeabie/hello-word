@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Era[
+
+<!ELEMENT Census>
+
+<!ELEMENT Name (#PCDATA)>
+
+<!ELEMENT first name(#PCDATA)>
+
+<!ELEMENT age(#PCDATA)>
+
+<!ELEMENT dwelling place(#PCDATA)>
+
+<!ELEMENT marital status(#PCDATA)]>
+
+<!ELEMENT level of study(#PCDATA)]>
+
+<!ELEMENT profession(#PCDATA)]>
+
+<!ELEMENT contact(#PCDATA)]>
+
+<!ELEMENT email(#PCDATA)]>
+
+]>
+
+
+
+<Era>
+   
+      <Census>
+
+         <Name> Abié </name>
+        
+         <first name> Ange Dominique Raissa </first name>
+
+         <age> 26 </age>
+   
+         <dwelling place> Yopougon </dwelling place>
+
+         <marital status> single</marital status>
+
+         <level of study> Bac+2 </level of study>
+
+         <profession> student</profession>
+ 
+          <contact> 42752314</contact>
+
+          <email> ange_abie25@outlook.fr</email>
+      
+      </census>
+
+</Era>
+
+
+
+
